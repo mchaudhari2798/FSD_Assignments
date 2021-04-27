@@ -1,0 +1,1 @@
+package com.mohit.spring_orm_hibernate.entities;
