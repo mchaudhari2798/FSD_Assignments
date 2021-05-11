@@ -1,0 +1,9 @@
+.container{
+    width: 70%;
+    background-color:khaki;
+    margin-bottom: 10%;
+    padding: 20px;
+}
+button{
+    letter-spacing: 5px;
+}
